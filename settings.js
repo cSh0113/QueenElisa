@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
-  ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  SESSION_ID: 'QUEENELISA;;;==QRJ10U5AHUzwEV5k3SJ12a4oWO6ZXQZpUUTlHU4BnU5FGSKRVc1RWc5o0YjMVei5GSk10cpwd=27298333672',
+  ALIVE_REACT: '🖕',
+  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am fucking Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -19,17 +19,17 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb://atlas-sql-66c73a2dd462aa375fb0f2d1-apj1k.a.query.mongodb.net/myVirtualDatabase?ssl=true&authSource=admin', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
+  BOT_NAME: 'YM Queen',
   OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NUMBER: '27633389272',
+  SUDO: '27633389272',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
-  TIME_ZONE: 'Asia/Colombo',
+  TIME_ZONE: 'ZA/Pretoria',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
@@ -42,7 +42,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
-  AUTO_SEEN_STATUS: true,
+  AUTO_SEEN_STATUS: false,
   BOT_OFFLINE: false,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
@@ -61,16 +61,16 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
-    ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
-    ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
+    ONLY_GROUP_MSG: 'Bot only to be Used in Groups!',
+    ONLY_PM_MSG: 'Bot Can only Private Chat!',
     BAD_DETECT_MSG: '@user Bad Words Are Disable by Owner!',
-    BANED_MSG: "@user You Can't use bot, You are baned by owner!",
-    GROUP_LEAVE: '👋 Bye @groupName I am Going.',
+    BANED_MSG: "@user You Can't use bot, You are banned by owner!",
+    GROUP_LEAVE: '👋 Bye @groupName I am Leaving.',
     INBOX_BLOCK:
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ ym 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
