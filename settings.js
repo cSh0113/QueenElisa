@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb://atlas-sql-66c73a2dd462aa375fb0f2d1-apj1k.a.query.mongodb.net/myVirtualDatabase?ssl=true&authSource=admin', 
+  MONGODB_URL: 'mongodb+srv://cSh:Alok@queenelisa.ygzekng.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
